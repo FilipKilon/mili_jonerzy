@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Mili_jonerzy/1.0.0": {
+        "runtime": {
+          "Mili_jonerzy.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mili_jonerzy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
